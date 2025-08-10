@@ -1,0 +1,155 @@
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1" /> <meta name="description" content="Official website of Saurabh Verma Content Creator, Student, Sanatani, and Reel Creator One Voice from Bahraich, India." /> <title>Saurabh Verma Official Website</
+
+title>
+
+--bg:eofofof: card: #171717; --muted:#9aa0a6; --radius: 12px; accent:#0ab4ff:
+
+<style>
+
+:root{
+
+) *(box-sizing:border-box)
+
+body {
+
+margin:0; font-family: 'Segoe UI', Roboto, Arial, sans-serif; background: var(--bg); color:#f2f2f2; -webkit-font-smoothing:antialiased;
+
+header {
+
+background: linear-gradient(180deg, rgba(255,255,255,0.02), transparent); padding: 28px 16px; text-align:center; border-bottom: 1px solid rgba(255,255,255,0.03);
+
+wrap{max-width: 900px; margin: 18px auto; padding:0 16px;}
+
+profile
+
+display: flex; gap: 16px; align-items:center; justify-content:center; flex-wrap:wrap:
+
+avatar{
+
+width: 120px; height: 120px; border-radius: 50%; overflow:hidden; flex: 00 120px; border: 3px solid rgba(255,255,255,0.04);
+
+}
+
+avatar img{width: 100%; height: 100%; object-fit:cover; display:block;} hl(font-size:1.9rem; margin: 0 0 6px) p.lead(margin:0; color:var(--muted); font-style: italic}
+
+section.card{ background: var(--card); padding: 18px; border-radius: var(--radius); margin:18px 0; box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+
+two-col{display:grid;
+
+grid-template-columns:1fr; gap: 16px;} @media (min-width:760px) (two-col(grid-template-columns: 1fr 320px;} }
+
+gallery img{width:100%; border-radius: 10px; display:block)
+
+social-links a{display: inline-block; margin-right: 12px; color var(--accent); text-decoration:none} footer{color:var(--muted); text-align:center; padding: 20px 16px; margin-top: 12px;}
+
+btn
+
+display: inline-block; padding: 10px 14px; border-radius: 8px; text-decoration:none; background: linear-gradient(90deg. rgba(10,180,255,0.12), rgba(10, 180,255,0.06)); color:var--accent); border:1px solid rgba(10,180,255,0.12):
+
+meta(color:var(--muted); font-size:0.95rem)
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<div class="wrap"> <div class="profile">
+
+<div class="avatar"> <!-- Replace this image URL with your real photo
+
+<img src="https://via.placeholder.com/300x300.png Ztext Your Photo" alt="Saurabh Verma" /> </div>
+
+<div style="text-align:center"> <h1>Saurabh Verma</h1>
+
+<p class="lead">Content Creator | Student Sanatani Reel Creator One Voice</
+
+>
+
+<div style="margin-top: 10px">
+
+<a class="btn" href="https://www.instagram.com/saurabh verma108" target="blank" rel="noopener">Follow on Instagram</a>
+
+</div>
+
+</div> </div> </div> </header>
+
+<main class="wrap"> <section class="card"> <div class="two-col">
+
+<div>
+
+<h2>About Me</h2>
+
+<p class="meta">Namaste! I'm Saurabh Verma from Bahraich, Uttar Pradesh. A student and passionate content creator who makes reels and shares stories in one voice. I love stylish expression and connecting with people through. short videos and Hindi quotes.</p>
+
+<h3 style="margin-top:14px">What I do</h3>
+
+<ul>
+
+<li>Create Instagram Reels & short-form video content</11>
+
+<11>Share Hindi quotes, style, and attitude</11>
+
+<li>Build a personal voice and connect with viewers</11> </ul>
+
+</div>
+
+<aside>
+
+<h3>Follow</h3> <div class="social-Links"
+
+href="https://www.instagram.com/saurabh verma108" target="blank"
+
+rel="noopener">Instagram</a><br>
+
+href="https://www.youtube.com/@saurabh verma108" target=" blank"
+
+rel="noopener">YouTube</a><br>
+
+<a href="https://www.facebook.com target="blank" rel="noopener">Facebook</a> </div>
+
+<h3 style="margin-top:14px">Quick actions</h3>
+
+<p class="meta">Want to contact or update content? Edit <code>index.html</code> in this repo and commit changes.</p> </aside>
+
+</div>
+
+</section>
+
+<section class="card gallery"> <h2>My Visuals</h2> 41- Replace placeholders with real reel/photo images or embed
+
+<img
+
+src="https://via.placeholder.com/900x4007text-Reel+Preview-1" alt="Reel Preview 1">
+
+<img
+
+src="https://via.placeholder.com/900x400?text= Reel+Preview-2" alt="Reel Preview 2 </section>
+
+</main>
+
+<footer>
+
+<div class="wrap"> <p>Made with by Saurabh Verma Bahraich, India</p>
+
+Pages <p class="meta">Site powered by GitHub <a class="meta" href="#。
+
+style="color:var--muted): text-decoration:underline">Edit this page</a></p>
+
+</div>
+
+</footer>
+
+</body>
+
+</html>
